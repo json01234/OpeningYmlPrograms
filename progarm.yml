@@ -1,0 +1,9 @@
+---
+# borwser set
+BrowserSet: CryptoTabBrowser
+WindowsNt6.0/6.1BrowserSet: MSEdge/internetExplorer
+...
+---
+# Host Location
+host: CMCC-6z5q/wlmail-PC
+...
